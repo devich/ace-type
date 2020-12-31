@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "https://dl.dropboxusercontent.com/u/134713/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 339 on 2020-12-31 at 13:29 (GMT+2)-->
+<!--Last edited by Ukelele version 339 on 2020-12-31 at 15:09 (GMT+2)-->
 <keyboard group="126" id="-1607" name="Ace Type" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
@@ -587,7 +587,7 @@
             <key code="12" output=""/>
             <key code="13" output=""/>
             <key code="14" output="Ў"/>
-            <key code="15" output=""/>
+            <key code="15" output="₽"/>
             <key code="16" output="Ѣ"/>
             <key code="17" output=""/>
             <key code="18" output="¡"/>
@@ -717,7 +717,7 @@
             <key code="36" output="&#x000D;"/>
             <key code="37" output=""/>
             <key code="38" output=""/>
-            <key code="39" output=""/>
+            <key code="39" output="’"/>
             <key code="40" output=""/>
             <key code="41" output=""/>
             <key code="42" output=""/>
@@ -799,7 +799,7 @@
             <key code="12" output=""/>
             <key code="13" output=""/>
             <key code="14" output=""/>
-            <key code="15" output=""/>
+            <key code="15" output="₽"/>
             <key code="16" output=""/>
             <key code="17" output=""/>
             <key code="18" output="¹"/>
@@ -815,7 +815,7 @@
             <key code="28" output="⁸"/>
             <key code="29" output="⁰"/>
             <key code="30" output=""/>
-            <key code="31" output="★"/>
+            <key code="31" output="✻"/>
             <key code="32" output=""/>
             <key code="33" output=""/>
             <key code="34" output=""/>
@@ -823,7 +823,7 @@
             <key code="36" output="&#x000D;"/>
             <key code="37" output=""/>
             <key code="38" output=""/>
-            <key code="39" output=""/>
+            <key code="39" output="‘"/>
             <key code="40" output=""/>
             <key code="41" output=""/>
             <key code="42" output=""/>
