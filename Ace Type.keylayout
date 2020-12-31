@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "https://dl.dropboxusercontent.com/u/134713/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 339 on 2020-12-31 at 13:14 (GMT+2)-->
-<keyboard group="126" id="-20989" name="Ace Type" maxout="2">
+<!--Last edited by Ukelele version 339 on 2020-12-31 at 13:29 (GMT+2)-->
+<keyboard group="126" id="-1607" name="Ace Type" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
         <layout first="18" last="18" mapSet="JIS" modifiers="Modifiers"/>
@@ -264,7 +264,7 @@
             <key code="7" output="ч"/>
             <key code="8" output="с"/>
             <key code="9" output="м"/>
-            <key code="10" output=""/>
+            <key code="10" output="&#x0027;"/>
             <key code="11" output="и"/>
             <key code="12" output="й"/>
             <key code="13" output="ц"/>
@@ -414,14 +414,30 @@
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
             <key code="64" output="&#x0010;"/>
+            <key code="65" output=""/>
             <key code="66" output="&#x001D;"/>
+            <key code="67" output=""/>
+            <key code="69" output=""/>
             <key code="70" output="&#x001C;"/>
             <key code="71" output="&#x001B;"/>
             <key code="72" output="&#x001F;"/>
+            <key code="75" output=""/>
             <key code="76" output="&#x0003;"/>
             <key code="77" output="&#x001E;"/>
+            <key code="78" output=""/>
             <key code="79" output="&#x0010;"/>
             <key code="80" output="&#x0010;"/>
+            <key code="81" output=""/>
+            <key code="82" output=""/>
+            <key code="83" output=""/>
+            <key code="84" output=""/>
+            <key code="85" output=""/>
+            <key code="86" output=""/>
+            <key code="87" output=""/>
+            <key code="88" output=""/>
+            <key code="89" output=""/>
+            <key code="91" output=""/>
+            <key code="92" output=""/>
             <key code="96" output="&#x0010;"/>
             <key code="97" output="&#x0010;"/>
             <key code="98" output="&#x0010;"/>
@@ -460,7 +476,7 @@
             <key code="7" output="×"/>
             <key code="8" output="©"/>
             <key code="9" output="↓"/>
-            <key code="10" output=""/>
+            <key code="10" output="’"/>
             <key code="11" output="ѵ"/>
             <key code="12" output=""/>
             <key code="13" output=""/>
@@ -566,7 +582,7 @@
             <key code="7" output="÷"/>
             <key code="8" output="¢"/>
             <key code="9" output=""/>
-            <key code="10" output=""/>
+            <key code="10" output="‘"/>
             <key code="11" output="Ѵ"/>
             <key code="12" output=""/>
             <key code="13" output=""/>
